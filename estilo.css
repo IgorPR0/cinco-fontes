@@ -1,0 +1,31 @@
+body{
+    background: #13a58da4;
+    text-align: center;
+}
+.titulo{
+    text-decoration: underline;
+    color: #e1f019;
+    
+}
+.sub-titulo{
+    color: rgba(195, 8, 8, 0.89);
+}
+p{
+    color: #060235;
+    text-align: justify;
+}
+#serif{
+    font-family: 'Georgia', serif;
+}
+#sans-serif{
+    font-family: 'Arial', sans-serif;
+}
+#fantasy{
+    font-family: 'Trattatello', fantasy;
+}
+#cursive{
+    font-family: 'Snell Roundhand', cursive;
+}
+#monospace{
+    font-family: 'Courier New', monospace;
+}
